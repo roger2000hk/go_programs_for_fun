@@ -25,3 +25,4 @@ Be patient, now I am counting the beers I consumed:
 That's All.
 So now, I am drunk, you can try to see how many bears can I drink with $20.
 ```
+A shorter link to link to this page https://goo.gl/oSBD1H
