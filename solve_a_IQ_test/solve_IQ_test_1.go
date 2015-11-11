@@ -47,7 +47,7 @@ func consume_drinks() {
 
 func main() {
 	say_the_rules()
-	fmt.Print("Be patient, now I am counting the beers I consumed: ")
+	fmt.Println("Be patient, now I am counting the beers I consumed: ")
 
 	max := 10 // just a magic number as a maximum for our processes communications
 	consume_a_drink = make(chan int, max)
